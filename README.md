@@ -8,6 +8,7 @@
 		<picture><img src="https://img.shields.io/badge/eclipseIDE-2C2255?style=flat-square&logo=eclipse&logoColor=white"></picture>
 		<picture><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"></picture>
 		<picture><img src="https://img.shields.io/badge/git-E44C30?style=flat-square&logo=git&logoColor=white"></picture>
+  		<picture><img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></picture>
   
   <a>Once I use... </a><br>
   <picture><img src="https://img.shields.io/badge/labview-FFDB00?style=flat-square&logo=labview&logoColor=white"></picture>
