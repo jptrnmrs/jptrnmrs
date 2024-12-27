@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 250" width="854" height="250">
+  <!-- 그라디언트 정의 -->
+  <defs>
+    <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#d7bafa; stop-opacity:1;" />
+      <stop offset="100%" style="stop-color:#8784E2; stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+
+  <!-- 웨이브 그룹 -->
+  <g transform="translate(427, 75) scale(1, 1) translate(-427, -75)">
+    <!-- 첫 번째 웨이브 -->
+    <path d="" fill="url(#waveGradient)" opacity="0.5" transform="scale(-1, 1)" transform-origin="center">
+      <animate 
+        attributeName="d" 
+        dur="20s" 
+        repeatCount="indefinite" 
+        keyTimes="0;0.333;0.667;1" 
+        calcmod="spline" 
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" 
+        begin="0s" 
+        values="M0 0L 0 70Q 213.5 110 427 80T 854 105L 854 0 Z;M0 0L 0 95Q 213.5 110 427 90T 854 80L 854 0 Z;M0 0L 0 115Q 213.5 85 427 115T 854 80L 854 0 Z;M0 0L 0 70Q 213.5 110 427 80T 854 105L 854 0 Z">
+      </animate>
+    </path>
+
+    <!-- 두 번째 웨이브 -->
+    <path d="" fill="url(#waveGradient)" opacity="0.5" transform="scale(-1, 1)" transform-origin="center">
+      <animate 
+        attributeName="d" 
+        dur="20s" 
+        repeatCount="indefinite" 
+        keyTimes="0;0.333;0.667;1" 
+        calcmod="spline" 
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" 
+        begin="-10s" 
+        values="M0 0L 0 85Q 213.5 130 427 100T 854 110L 854 0 Z;M0 0L 0 100Q 213.5 70 427 70T 854 90L 854 0 Z;M0 0L 0 95Q 213.5 75 427 100T 854 115L 854 0 Z;M0 0L 0 85Q 213.5 130 427 100T 854 110L 854 0 Z">
+      </animate>
+    </path>
+  </g>
+
+  <!-- PLAN 텍스트 -->
+  <text x="50%" y="25%" dx="-48" font-size="48" font-family="Arial" font-weight="bold" text-anchor="middle" alignment-baseline="middle" fill="white">
+    PLAN
+  </text>
+  
+  <!-- TRY 텍스트 -->
+  <text x="50%" y="25%" dx="65" font-size="48" font-family="Arial" font-weight="bold" text-anchor="middle" alignment-baseline="middle" fill="none" stroke="white" stroke-width="0.5">
+    TRY
+  </text>
+</svg>
