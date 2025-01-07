@@ -1,8 +1,12 @@
 <img align="center" width="100%" alt="header:Workspace" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=dce2f7&text=Workspace&fontAlignY=36&fontSize=50&animation=blink&reversal=true&section=header&desc=Welcome%20To%20My&fontColor=494663&stroke=fff&textBg=false&descSize=15&descAlignY=22&strokeWidth=0&descAlign=58">
 
 
-  <h3>JuGyeong</h3>
-
+  <h3 align="center">
+	  KIM JU GYEONG <br><br>
+	<a href="https://solved.ac/jptrnmrs">
+		<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jptrnmrs">
+	</a>
+  </h3>
 
 ## 🛠️ Tech Stacks
 
@@ -62,13 +66,10 @@
 
 <div align="center">
 	<a href="https://github.com/jptrnmrs/github-readme-stats">
-		<img style="width:40%; height:155px" src="https://github-readme-stats.vercel.app/api?username=jptrnmrs&hide=contribs,prs&show_icons=true&theme=graywhite">
+		<img style="width:43%" src="https://github-readme-stats.vercel.app/api?username=jptrnmrs&hide=contribs,prs&show_icons=true&theme=graywhite">
 	</a>
 	<a href="https://github.com/jptrnmrs/github-readme-stats">
-		<img style="width:30%; height:155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jptrnmrs&layout=compact">
-	</a>
-	<a href="https://solved.ac/jptrnmrs">
-		<img style="width:29%; height:155px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jptrnmrs&theme=dark">
+		<img style="width:25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jptrnmrs&layout=compact">
 	</a>
 </div>
 
