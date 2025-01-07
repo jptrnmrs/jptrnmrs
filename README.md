@@ -62,13 +62,13 @@
 
 <div align="center">
 	<a href="https://github.com/jptrnmrs/github-readme-stats">
-		<img style="width:33%; height:165px" src="https://github-readme-stats.vercel.app/api?username=jptrnmrs&hide=contribs,prs&show_icons=true&theme=graywhite">
+		<img style="width:40%; height:155px" src="https://github-readme-stats.vercel.app/api?username=jptrnmrs&hide=contribs,prs&show_icons=true&theme=graywhite">
 	</a>
 	<a href="https://github.com/jptrnmrs/github-readme-stats">
-		<img style="width:33%; height:165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jptrnmrs&layout=compact">
+		<img style="width:30%; height:155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jptrnmrs&layout=compact">
 	</a>
-	<a href="https://solved.ac/under912">
-		<img style="width:33%; height:165px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=under912&theme=dark">
+	<a href="https://solved.ac/jptrnmrs">
+		<img style="width:29%; height:155px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jptrnmrs&theme=dark">
 	</a>
 </div>
 
