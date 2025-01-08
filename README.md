@@ -33,7 +33,55 @@
 	      Better Late Than Never
 	      </h2>
       </blockquote>
-    
+  
+---
+  
+<div align="center">
+<table>
+<tr>
+
+<td width="50%">
+<h3 align="center" color="white">LotteOn</h2>
+<div align="center">  
+<a href='http://ec2-13-124-94-213.ap-northeast-2.compute.amazonaws.com:8080/'>
+<img src="https://placehold.co/250x200" alt="LotteOn Website" height="250px" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/jptrnmrs/LotteOn" target="_blank">
+<img src="https://img.shields.io/badge/Code-777DA7?style=for-the-badge&logo=github"/>
+</a>  
+<a href="http://ec2-13-124-94-213.ap-northeast-2.compute.amazonaws.com:8080/" target="_blank">
+<img src="https://img.shields.io/badge/-Live-green?style=for-the-badge&color=FF7595"/>
+</a>
+</p>
+<p><strong>Thymeleaf, SpringBoot</strong> — 설명</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center" color="white">Plantry</h2>
+<div align="center">  
+<a href='http://13.124.94.213:90/'>
+<img src="https://placehold.co/250x200" alt="Plantry Website Preview" height="250px" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/jptrnmrs/Plantry-front" target="_blank">
+<img src="https://img.shields.io/badge/Code-777DA7?style=for-the-badge&logo=github"/>
+</a>  
+<a href="http://13.124.94.213:90/" target="_blank">
+<img src="https://img.shields.io/badge/-Live-green?style=for-the-badge&color=FF7595"/>
+</a>
+</p>
+<p><strong>React, SpringBoot</strong> — 설명</p>
+</div>
+</td>
+
+</table>
+</div>
 <p align="center">
 <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 C | 
