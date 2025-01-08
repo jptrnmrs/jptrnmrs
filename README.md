@@ -10,56 +10,126 @@
 
 ## 🛠️ Tech Stacks
 
-<div align="center">
-<br>
-  
-  
-<!-- 사용 가능한 프로그램 -->  
-  
-![이클립스 eclipseIDE](https://img.shields.io/badge/eclipseIDE-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![비주얼스튜디오코드 Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![인텔리제이 IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-<!-- 사용해본 언어 --> 
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![redis](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
-
-<span style="font: 12px;">Once I use...</span>  
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat-square&logo=notepad%2B%2B&logoColor=black)
-![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![labview](https://img.shields.io/badge/labview-FFDB00?style=flat-square&logo=labview&logoColor=white)
-![arduino](https://img.shields.io/badge/arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
-
-
+<div style="display:flex; gap:5px; margin-bottom:10px;flex-wrap: wrap">
+  <span style="box-shadow: 1px 1px 1px lightgray; padding:2px 5px; border-radius:5px; font-size:14px; background:gray; color:white;">
+    Tools
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+    VisualStudio
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+    arduino
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+    Eclipse
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+    VS Code
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+    IntelliJ
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    MySQL
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+    Android Studio
+    <span style="font-size:12px; color:gray">  ( Now Studying! ) </span>
+  </span>
 </div>
 
-## 📖 Studying
+<div style="display:flex; gap:5px; margin-bottom:10px;flex-wrap: wrap">
+  <span style="box-shadow: 1px 1px 1px lightgray; padding:2px 5px; border-radius:5px; font-size:14px; background:gray; color:white;">
+    Skill
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+    Spring
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+    Redis
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    React
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+    Bootstrap
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+    Tailwind
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+    Flutter
+    <span style="font-size:12px; color:gray">  ( Now Studying! ) </span>
+  </span>
+</div>
 
-<div align="center">  
-	  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+<div style="display:flex; gap:5px; margin-bottom:10px;flex-wrap: wrap">
+  <span style="box-shadow: 1px 1px 1px lightgray; padding:2px 5px; border-radius:5px; font-size:14px; background:gray; color:white;">
+    Language
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    C
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    HTML
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    CSS
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    Java
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    JavaScript
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    Git
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+    Dart
+    <span style="font-size:12px; color:gray">  ( Now Studying! ) </span>
+  </span>
+</div>
+
+
+<div style="display:flex; gap:5px; margin-bottom:10px;flex-wrap: wrap">
+  <span style="box-shadow: 1px 1px 1px lightgray; padding:2px 5px; border-radius:5px; font-size:14px; background:gray; color:white;">
+    Design
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+    Photoshop
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+    Figma
+  </span>
+  <span style="display:flex; gap:2px; box-shadow: 1px 1px 1px gray; padding:2px 5px; border-radius:5px; font-size:14px; align-items:center">
+    <img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+    Canva
+  </span>
+</div>
    
-</div>  
 
 ## 🏅 Stats
 
