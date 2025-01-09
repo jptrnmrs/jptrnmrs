@@ -1,4 +1,3 @@
-<img align="center" width="100%" alt="header:Workspace" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=dce2f7&text=Workspace&fontAlignY=36&fontSize=50&animation=blink&reversal=true&section=header&desc=Welcome%20To%20My&fontColor=494663&stroke=fff&textBg=false&descSize=15&descAlignY=22&strokeWidth=0&descAlign=58">
 
 
   <h1 align="center">
@@ -28,14 +27,10 @@
         Git 
       </b>
     </p>
-      <blockquote>
-	      <h2>
-	      Better Late Than Never
-	      </h2>
-      </blockquote>
   
 ---
   
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=170&color=0%:d7bafa50,100%:8784E250&text=Recent%20Project&reversal=false&fontColor=000&fontSize=30">
 <div align="center">
 <table>
 <tr>
@@ -57,7 +52,7 @@
 <img src="https://img.shields.io/badge/-Live-green?style=for-the-badge&color=FF7595"/>
 </a>
 </p>
-<p><strong>Thymeleaf, SpringBoot</strong> — 롯데이커머스의 웹 쇼핑몰 프로젝트 Lotte On은 고객에게 다양한 상품을 제공하고 최고의 쇼핑 경험을 제공하기 위해 개발되고 있는 온라인 플랫폼입니다. 본 프로젝트는 사용자 친화적인 인터페이스를 통해 쇼핑이 보다 쉽고 편리하게 이루어질 수 있도록 설계되었습니다.</p>
+<p><strong>Thymeleaf, SpringBoot</strong> — LotteOn은 현재 서비스 되고 있는 롯데이커머스의 웹 쇼핑몰인 LotteOn을 레퍼런스 삼은 쇼핑몰 프로젝트로 관리자 기본 설정 및 시간대별 배너 노출 등을 맡아 개발했으며 상품 상세 출력, 쿠폰 적용 등 사용자 경험 향상을 위해 노력했습니다.</p>
 </div>
 </td>
 
@@ -77,7 +72,7 @@
 <img src="https://img.shields.io/badge/-Live-green?style=for-the-badge&color=FF7595"/>
 </a>
 </p>
-<p><strong>React, SpringBoot</strong> — 본 프로젝트는 롯데 이노베이트의 사내 커뮤니티 게시판 개발을 목적으로 시작하여 회사 내부 구성원이 아이디어를 공유하고 협업할 수 있도록 확장하여 설계된 그룹웨어 기반 협업 플랫폼입니다. 사용자 권한에 따라 게시판, 메인 메뉴 등을 맞춤 제공하며, 사용자로 하여금 보다 효율적으로 업무를 관리할 수 있도록 설계되었습니다.</p>
+<p><strong>React, SpringBoot</strong> — plantry는 사내 게시판에서 출발한 협업형 그룹웨어 프로젝트로 stomp, sortablejs 등의 라이브러리를 활용해 웹소켓으로 실시간 작업 사항을 공유하고 드래그 앤 드롭으로 직관성을 높인 칸반보드형 프로젝트 카테고리 전반을 개발했습니다.</p>
 </div>
 </td>
 
