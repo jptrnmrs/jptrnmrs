@@ -27,10 +27,33 @@
         Git 
       </b>
     </p>
-  
----
-  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=170&color=0%:d7bafa50,100%:8784E250&text=Recent%20Project&reversal=false&fontColor=000&fontSize=30">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Noto+Sans&weight=600&size=20&pause=1000&color=666666&center=true&vCenter=true&width=800&lines=I+think...+Better+Late+than+Never" alt="Typing SVG"/>
+</p>
+
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Noto+Sans&height=20&weight=500&size=15&pause=1000&color=666666&center=true&repeat=false&vCenter=true&width=800&lines=📖+Now+Studying" alt="Typing SVG"/>
+<p align="center">
+<b>
+  <img width="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+    Android Studio |
+    <img width="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+    Flutter | 
+    <img width="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+    Dart
+</b>
+</p>
+<br>
+
+	
+<h2 align="center">　<a href="https://github.com/jptrnmrs/github-readme-stats">
+		<img style="width:43%" src="https://github-readme-stats.vercel.app/api?username=jptrnmrs&hide=contribs,prs&show_icons=true&theme=graywhite">
+	</a>
+	<a href="https://github.com/jptrnmrs/github-readme-stats">
+		<img style="width:25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jptrnmrs&layout=compact">
+	</a></h2>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0%:d7bafa50,100%:8784E250&text=Recent%20Project&reversal=false&fontColor=000&fontSize=30">
 <div align="center">
 <table>
 <tr>
@@ -78,48 +101,7 @@
 
 </table>
 </div>
-<p align="center">
-<img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-C | 
-<img width="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-VisualStudio | 
-<img width="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-Arduino |  
-<img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-Redis | 
-<img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-Photoshop | 
-<img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-Figma | 
-<img width="14" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-Canva
-</p>
-	
-## 📖 Now Studying
-
-
-<p align="center">
-<b>
-  <img width="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-    Android Studio |
-    <img width="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-    Flutter | 
-    <img width="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-    Dart
-</b>
-</p>
-
-## 🏅 Stats
-
-
-<div align="center">
-	<a href="https://github.com/jptrnmrs/github-readme-stats">
-		<img style="width:43%" src="https://github-readme-stats.vercel.app/api?username=jptrnmrs&hide=contribs,prs&show_icons=true&theme=graywhite">
-	</a>
-	<a href="https://github.com/jptrnmrs/github-readme-stats">
-		<img style="width:25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jptrnmrs&layout=compact">
-	</a>
-</div>
+<br>
 
 
   
