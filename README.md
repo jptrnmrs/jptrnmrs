@@ -39,7 +39,7 @@
 <h3 align="center" color="white">LotteOn</h2>
 <div align="center">  
 <a href='http://ec2-13-124-94-213.ap-northeast-2.compute.amazonaws.com:8080/'>
-<img src="https://github.com/user-attachments/assets/dc1f6d5c-0017-413e-b105-d86c77781034" alt="LotteOn Website" height="250px" width="100%" />
+<img src="https://github.com/user-attachments/assets/dc1f6d5c-0017-413e-b105-d86c77781034" alt="LotteOn Website" max-height="250px" width="100%" />
 </a>
 
 <br>
