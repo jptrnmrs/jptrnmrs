@@ -64,7 +64,7 @@
 <h3 align="center" color="white">Plantry</h2>
 <div align="center">  
 <a href='http://13.124.94.213:90/'>
-<img src="https://github.com/user-attachments/assets/7109385f-4eeb-460f-ad96-ce94fc0a3045" alt="Plantry Website Preview" height="250px" width="100%" />
+<img src="https://github.com/user-attachments/assets/7109385f-4eeb-460f-ad96-ce94fc0a3045" alt="Plantry Website Preview" max-height="250px" width="100%" />
 </a>
 <br>
 <br>
