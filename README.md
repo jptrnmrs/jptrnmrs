@@ -1,7 +1,8 @@
 
 
   <h1 align="center">
-	  KIM JU GYEONG
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Noto+Sans&height=15&weight=400&size=14&pause=1000&color=666666&center=true&vCenter=true&width=800&lines=Hi,+there!+👋+My+name+is..." alt="Typing SVG"/>
+	  Kim Ju-Gyeong
   </h1>
     <p align="center">
       <b>
@@ -28,10 +29,7 @@
       </b>
     </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Noto+Sans&weight=600&size=20&pause=1000&color=666666&center=true&vCenter=true&width=800&lines=I+think...+Better+Late+than+Never" alt="Typing SVG"/>
-</p>
-
+<br>
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Noto+Sans&height=20&weight=500&size=15&pause=1000&color=666666&center=true&repeat=false&vCenter=true&width=800&lines=📖+Now+Studying" alt="Typing SVG"/>
 <p align="center">
 <b>
